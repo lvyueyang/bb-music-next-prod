@@ -1,0 +1,1 @@
+{"/_app":"pages/_app.js","/_document":"pages/_document.js","/api/config/[origin]":"pages/api/config/[origin].js","/api/music/file/[...args]":"pages/api/music/file/[...args].js","/api/search/[...args]":"pages/api/search/[...args].js","/api/open-music-order":"pages/api/open-music-order.js","/":"pages/index.html","/_error":"pages/_error.js","/404":"pages/404.html"}
